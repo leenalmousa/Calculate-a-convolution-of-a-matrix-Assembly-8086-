@@ -1,1 +1,2 @@
-# Calculate-a-convolution-of-a-matrix-Assembly-8086-
+# Convolution of a matrix using Assembly-8086
+This project uses the 8086 microprocessor to construct a 2D moving average filter for image processing. The input is an 8x8 grayscale matrix obtained from a university ID, and a 3x3 filter is used to create a 6x6 output matrix. The 8086 assembly-based application is made up procedures for computation, memory allocation, and hexadecimal output formatting. Timing analysis is used to determine the number of clock cycles and time  necessary for the procedure. This project demonstrates the application of assembly language to image processing and microprocessor-based tasks.
